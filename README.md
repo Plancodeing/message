@@ -25,7 +25,8 @@ python manage.py runserver
 - It will run the application on your localhost.
 - Open the browser with the localhost address and enjoy the application.
 
-#Full steps
+## Full steps
+```
 pip install django
 download and extract zip file 
 open the extracted file in any text editor 
@@ -33,5 +34,6 @@ open terminal run the below command
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+```
 
 ----Thank you frds ------
