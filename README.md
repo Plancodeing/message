@@ -36,4 +36,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-----Thank you frds ------
+----Thank you -------
